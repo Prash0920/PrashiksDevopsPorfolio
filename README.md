@@ -2,7 +2,7 @@
 
 Personal DevOps portfolio showcasing cloud infrastructure, CI/CD, and automation skills.
 
-🔗 Live: https://your-username.github.io
+🔗 Live: https://prashiks-devops-porfolio.vercel.app/
 
 👋 About
 
