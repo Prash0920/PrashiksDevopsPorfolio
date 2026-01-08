@@ -45,7 +45,7 @@ export function DarkFooter() {
           {/* Social Links */}
           <div className="flex items-center justify-center gap-6 pt-4">
             <a
-              href="https://github.com/prashikmanohare"
+              href="https://github.com/Prash0920"
               target="_blank"
               rel="noopener noreferrer"
               className="w-12 h-12 rounded-full bg-gray-200 dark:bg-gray-800 border border-gray-300 dark:border-purple-500/30 flex items-center justify-center text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white hover:bg-gray-300 dark:hover:bg-purple-500/20 transition-all"
@@ -53,7 +53,7 @@ export function DarkFooter() {
               <Github className="w-5 h-5" />
             </a>
             <a
-              href="https://linkedin.com/in/prashikmanohare"
+              href="https://www.linkedin.com/in/prashiik-manohare-346466241/"
               target="_blank"
               rel="noopener noreferrer"
               className="w-12 h-12 rounded-full bg-gray-200 dark:bg-gray-800 border border-gray-300 dark:border-cyan-500/30 flex items-center justify-center text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white hover:bg-gray-300 dark:hover:bg-cyan-500/20 transition-all"

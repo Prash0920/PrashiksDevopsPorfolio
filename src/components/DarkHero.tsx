@@ -53,13 +53,6 @@ export function DarkHero() {
               Contact Me
             </a>
           </div>
-
-          {/* Scroll Indicator */}
-          <div className="absolute bottom-10 left-1/2 -translate-x-1/2 animate-bounce">
-            <div className="w-6 h-10 border-2 border-gray-400 dark:border-purple-500 rounded-full flex justify-center">
-              <div className="w-1.5 h-1.5 bg-purple-500 rounded-full mt-2 animate-pulse shadow-lg shadow-purple-500/50"></div>
-            </div>
-          </div>
         </div>
       </div>
     </section>
