@@ -5,7 +5,7 @@ import { DarkHero } from './components/DarkHero';
 import { DarkOverview } from './components/DarkOverview';
 import { DarkSkills } from './components/DarkSkills';
 import { DarkExperience } from './components/DarkExperience';
-import { DarkProjects } from './components/DarkProjects';
+import { FeaturedProjects } from './components/FeaturedProjects';
 import { DarkFooter } from './components/DarkFooter';
 
 export default function App() {
@@ -28,7 +28,7 @@ export default function App() {
           <DarkOverview />
           <DarkSkills />
           <DarkExperience />
-          <DarkProjects />
+          <FeaturedProjects />
           <DarkFooter />
         </div>
       </div>
